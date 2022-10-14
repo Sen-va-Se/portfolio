@@ -303,6 +303,7 @@ form button{
 
 .card ul{
 	color: white;
+	list-style-type: none;
 }
 .card li{
 	color: #fcfc;
