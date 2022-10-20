@@ -307,3 +307,6 @@ form button{
 .card li{
 	color: #fcfc;
 }
+pra ul li{
+	list-style-type: none;
+}
